@@ -1,23 +1,18 @@
-ZIB1 Insights & Summary Bot
-Dieses Projekt ist eine Web-Applikation, die automatisch die Untertitel der ZIB1 (Zeit im Bild) mittels Künstlicher Intelligenz ausliest, analysiert und zusammenfasst. Nutzer können interaktiv Fragen zu den Inhalten stellen, Daten verwalten und aktuelle Wirtschaftsindikatoren in Echtzeit einsehen.
+# 📺 ZIB1 KI-Summarizer & Dashboard
 
-🚀 Features
-KI-Zusammenfassung: Automatische Extraktion und Aufbereitung der wichtigsten Nachrichten der täglichen ZIB1-Sendung.
+Dieses Projekt automatisiert die Analyse der **ZIB1 (Zeit im Bild)**. Mithilfe von Künstlicher Intelligenz werden die Untertitel der Sendung extrahiert, zusammengefasst und für den Nutzer interaktiv aufbereitet. Ergänzt wird die Applikation durch ein Dashboard mit aktuellen Wirtschaftsdaten für Österreich.
 
-Interaktiver Q&A-Chat: Ein integriertes KI-Modell beantwortet spezifische Fragen zu den Zusammenfassungen oder liefert allgemeine Zusatzinformationen.
+---
 
-Wirtschafts-Dashboard: Live-Anzeige wichtiger Marktdaten:
+## ✨ Hauptfunktionen
 
-Goldpreis
-
-Ölpreis (Brent)
-
-Aktuelle Inflationsrate (Österreich)
-
-Datenverwaltung:
-
-Speicherung der Zusammenfassungen in einer Datenbank.
-
-Löschfunktion für alte oder nicht mehr benötigte Einträge.
-
-PDF-Export: Jede Zusammenfassung kann für die Offline-Nutzung oder Archivierung als PDF heruntergeladen werden.
+* **KI-Zusammenfassung:** Automatische Extraktion und Kürzung der täglichen ZIB1-Inhalte.
+* **Interaktiver Chat:** Stelle spezifische Fragen zu den Nachrichten oder lass dir komplexe Themen allgemein von der KI erklären.
+* **Wirtschafts-Monitoring:** Live-Daten auf einen Blick:
+    * **Goldpreis** (aktueller Marktwert)
+    * **Ölpreis** (Brent Crude)
+    * **Inflationsrate** (aktuellster Monatswert für Österreich)
+* **Daten-Management:**
+    * Archivierung aller Zusammenfassungen in einer Datenbank.
+    * **PDF-Export:** Lade Zusammenfassungen für die Dokumentation herunter.
+    * Löschfunktion für die Datenbankpflege.
