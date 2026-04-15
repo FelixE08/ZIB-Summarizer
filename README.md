@@ -25,3 +25,7 @@ Dieses Projekt automatisiert die Analyse der **ZIB1 (Zeit im Bild)**. Mithilfe v
 * **Env Datei einrichten:** Bennene die '.env.example' Datei in '.env' um
 * **API-Key erstellen:** Erstelle deinen Key auf 'https://aistudio.google.com/app/apikey?hl=de'
 * **API-Key einfügen:** gehe in die '.env' Datei und füge bei 'AI_API_KEY=' deinen Key ein
+* **Website starten:** Füge die Website bei Herd hinzu -> gib den Befehl ```npm run dev``` ein
+
+## ⚖️ Disclaimer
+Dieses Tool dient zu Informationszwecken. Die Daten der Untertitel sind urheberrechtlich geschütztes Eigentum des ORF. Dieses Projekt steht in keiner offiziellen Verbindung zum ORF.
