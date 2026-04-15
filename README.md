@@ -25,6 +25,12 @@ Dieses Projekt automatisiert die Analyse der **ZIB1 (Zeit im Bild)**. Mithilfe v
 * **Env Datei einrichten:** Bennene die '.env.example' Datei in '.env' um
 * **API-Key erstellen:** Erstelle deinen Key auf 'https://aistudio.google.com/app/apikey?hl=de'
 * **API-Key einfügen:** gehe in die '.env' Datei und füge bei 'AI_API_KEY=' deinen Key ein
+* **Befehle ausführen:**
+    * **Composer installieren:** ```composer install```
+    * **Npm installieren:** ```npm install```
+    * **App-Key generieren:** ```php artisan key:generate```
+    * **Datenbank erstellen:** ```New-Item -Path "database\database.sqlite" -ItemType File```
+    * **Migrieren:** ```php artisan migrate```
 * **Website starten:** Füge die Website bei Herd hinzu -> gib den Befehl ```npm run dev``` ein
 
 ## ⚖️ Disclaimer
