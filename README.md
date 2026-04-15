@@ -2,6 +2,8 @@
 
 Dieses Projekt automatisiert die Analyse der **ZIB1 (Zeit im Bild)**. Mithilfe von Künstlicher Intelligenz werden die Untertitel der Sendung extrahiert, zusammengefasst und für den Nutzer interaktiv aufbereitet. Ergänzt wird die Applikation durch ein Dashboard mit aktuellen Wirtschaftsdaten für Österreich.
 
+**Hinweis:** Die Website läuft lokal
+
 ---
 
 ## ✨ Hauptfunktionen
@@ -16,3 +18,10 @@ Dieses Projekt automatisiert die Analyse der **ZIB1 (Zeit im Bild)**. Mithilfe v
     * Archivierung aller Zusammenfassungen in einer Datenbank.
     * **PDF-Export:** Lade Zusammenfassungen für die Dokumentation herunter.
     * Löschfunktion für die Datenbankpflege.
+
+## Installation
+
+* **Git Repository Klonen:** Klone das Git-Repository in einen beliebigen Ordner
+* **Env Datei einrichten:** Bennene die '.env.example' Datei in '.env' um
+* **API-Key erstellen:** Erstelle deinen Key auf 'https://aistudio.google.com/app/apikey?hl=de'
+* **API-Key einfügen:** gehe in die '.env' Datei und füge bei 'AI_API_KEY=' deinen Key ein
