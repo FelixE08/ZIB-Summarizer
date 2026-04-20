@@ -33,5 +33,9 @@ Dieses Projekt automatisiert die Analyse der **ZIB1 (Zeit im Bild)**. Mithilfe v
     * **Migrieren:** ```php artisan migrate```
 * **Website starten:** Füge die Website bei Herd hinzu -> gib den Befehl ```npm run dev``` ein
 
+## Easy Website start
+* **ZIB.bat:** Öffne die Datei 'ZIB.bat' und füge die notwendigen Pfade, sowie den Link ein
+* **Starten:** Jetzt kann die Website mit einem einfachen Doppelklick auf die Datei gestartet werden
+
 ## ⚖️ Disclaimer
 Dieses Tool dient zu Informationszwecken. Die Daten der Untertitel sind urheberrechtlich geschütztes Eigentum des ORF. Dieses Projekt steht in keiner offiziellen Verbindung zum ORF.
